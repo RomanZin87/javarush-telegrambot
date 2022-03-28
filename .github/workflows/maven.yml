@@ -19,7 +19,7 @@ jobs:
      with:
        mysql version: '5.7'
        mysql database: 'dev_jrtb_db'
-       mysql root password: 'root'
+       mysql root password: 'Ozin1761'
        mysql user: 'dev_jrtb_db_user'
        mysql password: 'dev_jrtb_db_password'
    - name: Set up JDK 1.11
